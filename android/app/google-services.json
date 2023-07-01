@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17077950991",
+    "project_id": "sweetcakes-4c19b",
+    "storage_bucket": "sweetcakes-4c19b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17077950991:android:da9eff4a90d19a61c2217a",
+        "android_client_info": {
+          "package_name": "com.example.sweet_cakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17077950991-ai3rhkki18pulckt1qd2g22grhe09pu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHrgft9fZz4W4dXeXGz0blaCowTfKGSSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17077950991-ai3rhkki18pulckt1qd2g22grhe09pu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
